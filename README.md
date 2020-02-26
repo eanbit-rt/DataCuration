@@ -24,7 +24,7 @@ These are the high-level competencies that we focus on imparting during the trai
 
 At the end of the training, the trainees should be able to:
 - Makes use of suitable programming languages and/or workflow tools to automate data handling and curation tasks
-- Curates biological data using suitable metadata, ontologies and/or controlled vocabularies
+- Curates biological data using proper metadata, ontologies and/or controlled vocabularies
 - Draft and file an appropriate Data Management Plan
 - Prepare data for submission to appropriate public bioinformatics data repositories as required, being aware of ethical and legal considerations
 
@@ -40,14 +40,14 @@ In this lesson, we will be
 
 ### Learning Outcomes
 - Be able to outline the FAIR principles and how they can be applied
-- be able to highlight and apply the FAIR principles in genomics --- or any of their research
+- be able to highlight and utilize the FAIR principles in genomics --- or any of their research
 - Know the various tools that can be used to develop a data management plan
 - Be prepared to apply open science principles but protect their data: Be as open as possible and closed as necessary
 
 ## 3. Metadata standards for genomic data and uploading to Genbank/ ENA
-The main objective for this is to understand how to collect the right metadata, and make use iof known and established standards. 
+The main objective for this is to understand how to collect the right metadata and make use of known and established standards. 
 - [Some standards](https://gensc.org/mixs/mixs-compliance-and-implementation/)
 - [SRA Metadata and Submission Overview](https://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/)
-- 
-
-
+- Minimum information by GSC paper: https://www.nature.com/articles/nbt.1823.pdf 
+- The [Checklist availabe at ENA](https://www.ebi.ac.uk/ena/submit/mixs-checklists) for Minimum information is alsos useful
+For completeness we could include [Project planning for Genomics](https://datacarpentry.org/organization-genomics/), we could then use the data and resources from DC Genomics for part of the course. 
