@@ -45,5 +45,9 @@ In this lesson, we will be
 - Be prepared to apply open science principles but protect their data: Be as open as possible and closed as necessary
 
 ## 3. Metadata standards for genomic data and uploading to Genbank/ ENA
+The main objective for this is to understand how to collect the right metadata, and make use iof known and established standards. 
+- [Some standards](https://gensc.org/mixs/mixs-compliance-and-implementation/)
+- [SRA Metadata and Submission Overview](https://www.ncbi.nlm.nih.gov/sra/docs/submitmeta/)
+- 
 
 
