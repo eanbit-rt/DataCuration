@@ -28,7 +28,7 @@ At the end of the training, the trainees should be able to:
 - Draft and file an appropriate Data Management Plan
 - Prepare data for submission to appropriate public bioinformatics data repositories as required, being aware of ethical and legal considerations
 
-## FAIR Data Principles and their implementation in our scientific space
+## 2. FAIR Data Principles and their implementation in our scientific space
 In this lesson, we will be 
  
 ### Learning Objectives
@@ -43,5 +43,7 @@ In this lesson, we will be
 - be able to highlight and apply the FAIR principles in genomics --- or any of their research
 - Know the various tools that can be used to develop a data management plan
 - Be prepared to apply open science principles but protect their data: Be as open as possible and closed as necessary
+
+## 3. Metadata standards for genomic data and uploading to Genbank/ ENA
 
 
